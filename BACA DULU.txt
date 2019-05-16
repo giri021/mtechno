@@ -1,6 +1,6 @@
 Install Localhost:
 
-1. Buat database dengan nama db_penjualan.
+1. Buat database dengan nama dbtechno.sql /db_techno.sql.
 2. Extract File mtechno.zip yang didownload kedalam directori:
    C:\\wamp\www (jika menggunakan WAMPSERVER).
    C:\\xampp\htdocs (jika menggunakan XAMPP).
