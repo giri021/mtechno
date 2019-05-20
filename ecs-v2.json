@@ -1,0 +1,24 @@
+{
+  "containerDefinitions": [
+    {
+      "name": "giri-alpha-mblog",
+      "image": "081602682094.dkr.ecr.us-east-2.amazonaws.com/giri-alpha-mblog:latest",
+      "cpu": 0,
+      "memory": 256,
+      "portMappings": [
+        {
+          "containerPort": 80
+        }
+      ],
+      "dockerLabels" : {
+        "container" : "giri-alpha-mblog",
+        "environment" : "development"
+      },
+      "logConfiguration" : {
+        "logDriver": "json-file",
+        "options": {
+          "labels" : "container,environment"
+        }
+      }
+    }]
+}
