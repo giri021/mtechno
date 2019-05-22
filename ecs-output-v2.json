@@ -1,0 +1,56 @@
+{
+    "taskDefinition": {
+        "taskDefinitionArn": "arn:aws:ecs:us-east-2:081602682094:task-definition/giri-alpha-sneaky:3",
+        "containerDefinitions": [
+            {
+                "name": "giri-alpha-sneaky",
+                "image": "081602682094.dkr.ecr.us-east-2.amazonaws.com/giri-alpha-sneaky:latest",
+                "cpu": 0,
+                "memory": 256,
+                "portMappings": [
+                    {
+                        "containerPort": 80,
+                        "hostPort": 0,
+                        "protocol": "tcp"
+                    }
+                ],
+                "essential": true,
+                "environment": [],
+                "mountPoints": [],
+                "volumesFrom": [],
+                "dockerLabels": {
+                    "container": "giri-alpha-sneaky",
+                    "environment": "development"
+                },
+                "logConfiguration": {
+                    "logDriver": "json-file",
+                    "options": {
+                        "labels": "container,environment"
+                    }
+                }
+            }
+        ],
+        "family": "giri-alpha-sneaky",
+        "revision": 3,
+        "volumes": [],
+        "status": "ACTIVE",
+        "requiresAttributes": [
+            {
+                "name": "com.amazonaws.ecs.capability.docker-remote-api.1.18"
+            },
+            {
+                "name": "com.amazonaws.ecs.capability.ecr-auth"
+            },
+            {
+                "name": "com.amazonaws.ecs.capability.logging-driver.json-file"
+            },
+            {
+                "name": "com.amazonaws.ecs.capability.docker-remote-api.1.19"
+            }
+        ],
+        "placementConstraints": [],
+        "compatibilities": [
+            "EC2"
+        ]
+    }
+}
