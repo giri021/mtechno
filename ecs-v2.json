@@ -1,8 +1,8 @@
 {
   "containerDefinitions": [
     {
-      "name": "giri-alpha-mtechno",
-      "image": "081602682094.dkr.ecr.us-east-2.amazonaws.com/giri-alpha-mtechno:latest",
+      "name": "giri-alpha-mtechno-pro",
+      "image": "081602682094.dkr.ecr.us-east-2.amazonaws.com/giri-alpha-mtechno-pro:latest",
       "cpu": 0,
       "memory": 256,
       "portMappings": [
@@ -11,7 +11,7 @@
         }
       ],
       "dockerLabels" : {
-        "container" : "giri-alpha-mtechno",
+        "container" : "giri-alpha-mtechno-pro",
         "environment" : "production"
       },
       "logConfiguration" : {
