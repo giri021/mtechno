@@ -22,7 +22,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
-	<meta name="author" content="M Fikri Setiadi" />
+	<meta name="author" content="Agustinus Giri Hartono" />
 
 	<meta property="fb:app_id" content="966242223397117" />
     <meta property="og:locale" content="id_id" />
@@ -30,7 +30,7 @@
     <meta property="og:title" content="<?php echo $title;?>" />
     <meta property="og:description" content="<?php echo $deskripsi;?>" />
     <meta property="og:url" content="<?php echo $url?>" />
-    <meta property="og:site_name" content="mfikri.com" />
+    <meta property="og:site_name" content="http://mtechno.sdcilsy-alpha.web.id/" />
 
     <meta property="article:section" content="<?php echo $author;?>" />
     <meta property="og:image" content="<?php echo $img?>" />
@@ -90,7 +90,7 @@
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>Enjoy the Blog</h2>
-		   					<p class="fh5co-lead"> Awesome source code by <a href="http://mfikri.com/" target="_blank">M Fikri Setiadi</a></p>
+		   					<p class="fh5co-lead"> Awesome source code by <a href="http://mtechno.sdcilsy-alpha.web.id/" target="_blank">Agustinus Giri Hartono</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
