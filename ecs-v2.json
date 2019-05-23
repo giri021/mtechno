@@ -4,7 +4,7 @@
       "name": "giri-alpha-mtechno-pro",
       "image": "081602682094.dkr.ecr.us-east-2.amazonaws.com/giri-alpha-mtechno-pro:latest",
       "cpu": 0,
-      "memory": 256,
+      "memory": 128,
       "portMappings": [
         {
           "containerPort": 80
