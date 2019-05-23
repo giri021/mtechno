@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
-	<meta name="author" content="M Fikri Setiadi" />
+	<meta name="author" content="Agustinus Giri Hartono" />
 	<link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/favicon.png'?>">
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
