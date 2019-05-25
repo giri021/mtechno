@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
-	<meta name="author" content="M Fikri Setiadi" />
+	<meta name="author" content="Agustinus Giri Hartono" />
 	<link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/favicon.png'?>">
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="shortcut icon" href="favicon.ico">
@@ -61,7 +61,7 @@
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>Who We Are</h2>
-		   					<p class="fh5co-lead"> Awesome source code by <a href="http://mfikri.com/" target="_blank">M Fikri Setiadi</a></p>
+		   					<p class="fh5co-lead"> Awesome source code by <a href="http://mtechno.sdcilsy-alpha.web.id" target="_blank">Agustinus Giri Hartono</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
