@@ -75,8 +75,8 @@
 				<div class="col-md-3">
 					<h3>Contact Info.</h3>
 					<ul class="contact-info">
-						<li><i class="icon-map"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
-						<li><i class="icon-phone"></i>+ 1235 2355 98</li>
+						<li><i class="icon-map"></i> Jl. Kaliurang KM 17 Pakem, Sleman, Yogyakarta </li>
+						<li><i class="icon-phone"></i> (0274) 896282 </li>
 						<li><i class="icon-envelope"></i><a href="#">info@yoursite.com</a></li>
 						<li><i class="icon-globe"></i><a href="#">www.yoursite.com</a></li>
 					</ul>
