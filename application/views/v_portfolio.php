@@ -81,7 +81,7 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 					<h2>See our products</h2>
-					<p>Kami terlah mengerjakan banyak project.</p>
+					<p>Kami telah mengerjakan banyak project.</p>
 				</div>
 			</div>
 		</div>
