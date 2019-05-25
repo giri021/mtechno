@@ -65,7 +65,7 @@
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
 		   					<h2>Our Awesome Products</h2>
-		   					<p class="fh5co-lead"> Awesome source code by <a href="http://mtechno.sdcilsy-alpha.web.id/" target="_blank">Agustinus Giri Hartono</a></p>
+		   					<p class="fh5co-lead"> Awesome source code by: <a href="http://mtechno.sdcilsy-alpha.web.id/" target="_blank">Agustinus Giri Hartono</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
