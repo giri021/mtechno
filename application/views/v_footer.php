@@ -34,7 +34,7 @@
 
 
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2017 by <a href="http://mfikri.com/" target="_blank">M Fikri Setiadi</a>. All Rights Reserved.</p>
+				<p>&copy; 2017 by <a href="http://http://devmtechno.sdcilsy-alpha.web.id/" target="_blank">Agustinus Giri Hartono</a>. All Rights Reserved.</p>
 			</div>
 
 		</div>
